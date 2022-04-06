@@ -1,5 +1,5 @@
-InstaBFA
-InstaBruteForcBFAe is an illegal tool for instagram exploit 
+##InstaBFA
+InstaBruteForcAttack is an illegal tool for instagram exploit 
 
 
 

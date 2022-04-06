@@ -14,4 +14,4 @@ Server clocked at 192,765,000 Passwords/Second Powerd by GDS Lake Server
 #Contact or need help
 
 https://instagram.com/not.gyann
-https://gyann.co.in
+https://gyann.co.in 

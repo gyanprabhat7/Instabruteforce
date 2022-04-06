@@ -3,27 +3,15 @@ InstaBruteForcAttack is an illegal tool for instagram exploit
 
 
 
-# Header 1
-## Header 2
-### Header 3
+View Source code on GitHUb by Clicking above button
 
-- Bulleted
-- List
+"Disclaimer: This is an illegal Hacking Repository, use just for fun and educational purpose only. Any violence because of this, is beyond my responsibility"
 
-1. Numbered
-2. List
+Server clocked at 192,765,000 Passwords/Second Powerd by GDS Lake Server
 
-**Bold** and _Italic_ and `Code` text
+*Note any Legal act due to use of InstaBFA is not my responsiblity
 
-[Link](url) and ![Image](src)
-```
+#Contact or need help
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gggyan07/Instabruteforce/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+https://instagram.com/not.gyann
+https://gyann.co.in

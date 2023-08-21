@@ -1,4 +1,5 @@
-"Disclaimer: This is an illegal Hacking Repository, use just for fun and educational purpose only. Any violence because of this, is beyond my responsibility" 
+#InstaBruteForce - password cracking tool
 
-Server clocked at 192,765,000 Passwords/Second 
-Powerd by GDS Lake Server
+"Disclaimer: This program is make just for fun and educational purpose only. Any illeagle activity or violence because of this, is not my responsibility" 
+
+There are over 100k passwords this program uses to breach into the instagram account.

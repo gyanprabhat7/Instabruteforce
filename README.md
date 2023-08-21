@@ -1,4 +1,4 @@
-#InstaBruteForce - password cracking tool
+##InstaBruteForce - password cracking tool
 
 "Disclaimer: This program is make just for fun and educational purpose only. Any illeagle activity or violence because of this, is not my responsibility" 
 

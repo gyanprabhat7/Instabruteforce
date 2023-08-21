@@ -4,7 +4,7 @@ import time
 username = input('Username: ')
 dictionary = input('Choose Dictionary: ')
 
-file = open(f'{dictionary}.txt', 'r')
+file = open(f'{passwords}.txt', 'r')
 bruteforce = []
 for line in file:
     line = line.strip()

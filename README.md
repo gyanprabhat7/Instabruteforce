@@ -30,6 +30,12 @@ Instabrutefore is a project developed for educational and ethical hacking purpos
 By downloading, using, or accessing Instabrutefore, you acknowledge that you have read, understood, and agreed to this disclaimer. You also commit to using the tool responsibly and in compliance with all relevant laws and ethical standards.
 
 
+## Dictionary and Random Passwords
+
+You can either use a prebuilt dictionary or use inbuilt random password generator (not recommended)
+You can get access to dictionary containing leaked passwords from previous data breaches to bruteforce
+
+
 
 
 ## Installation
@@ -51,7 +57,7 @@ Install required packages
 Run instagram-brute-force.py
 
 ```bash
-  python instagram-brute-force.py
+  python main.py
 ```
 
 ## GUI Mode

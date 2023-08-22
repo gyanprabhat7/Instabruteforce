@@ -32,7 +32,6 @@ By downloading, using, or accessing Instabrutefore, you acknowledge that you hav
 
 
 
-
 ## Installation
 
 clone Instabruteforce
@@ -54,6 +53,13 @@ Run instagram-brute-force.py
 ```bash
   python instagram-brute-force.py
 ```
+
+## GUI Mode
+
+```bash
+  python app.py
+```
+
 
 ## Support
 

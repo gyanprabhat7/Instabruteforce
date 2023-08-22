@@ -35,6 +35,8 @@ By downloading, using, or accessing Instabrutefore, you acknowledge that you hav
 You can either use a prebuilt dictionary or use inbuilt random password generator (not recommended)
 You can get access to dictionary containing leaked passwords from previous data breaches to bruteforce
 
+You've already been provided with over 100k leaked passwords with this tool. (passwords.txt)
+
 
 
 

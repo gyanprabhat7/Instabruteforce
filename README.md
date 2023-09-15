@@ -1,5 +1,5 @@
 
-# InstaBruteForce - Password breaching tool
+# InstaBruteForce - Password breaching tool (EDUCATIONAL)
 
 A tool to brute force into an instagram account.
 
